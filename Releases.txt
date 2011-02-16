@@ -1,0 +1,9 @@
+=================
+====== 12/10/2010 
+
+WUA - Version 1.0.0.0
+WUManager - Version 1.0.0.0
+
+Versão inicial do projeto.
+
+=================
